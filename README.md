@@ -1,1 +1,1 @@
-[link](main/subdir/README.md#heading-1)
+[link](https://github.com/testing-beast/test/tree/main/subdir#heading-1)
