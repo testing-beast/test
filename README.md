@@ -1,1 +1,1 @@
-[link](/blob/main/subdir/README.md#heading-1)
+[link](~/subdir/README.md#heading-1)
